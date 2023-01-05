@@ -1,4 +1,4 @@
 {
-  "html_file": "./index.html",
+  "search_query": "((Stone MB[Author]) AND (Spine Institute[Affiliation]))",
   "output_csv": "./output.csv"
 }
